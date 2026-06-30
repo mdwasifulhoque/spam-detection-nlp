@@ -47,8 +47,7 @@ Logistic Regression on TF-IDF features was selected as the final model based on 
 │   └── feature_weights.csv
 ├── notebooks/
 │   └── spam_detection.ipynb     # Full training & evaluation notebook
-└── report/
-    └── SMS_EMAIL_SPAM_DETECTOR_REPORT.pdf
+
 ```
 
 ## Setup Instructions
